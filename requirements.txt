@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests 
+pylint
+pyjwt
+datetime
+uuid
+Flask-SQLAlchemy
